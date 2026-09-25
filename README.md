@@ -1,4 +1,4 @@
-# IITD Particle Tracking
+# Particle Tracking
 
 Computer-vision workflows for detecting and tracking particles in experimental frame sequences. The project combines colour-based annotation, YOLO object detection, BoT-SORT and Kalman tracking, and particle image velocimetry (PIV).
 
