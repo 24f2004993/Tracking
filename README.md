@@ -8,6 +8,7 @@ Computer-vision workflows for detecting and tracking particles in experimental f
 - Kalman and BoT-SORT particle trackers.
 - PIV analysis scripts for consecutive frames and collision sequences.
 - Metrics and selected figures from 5- and 50-epoch YOLOv8 training runs.
+- The main experimental recording in `videos/main_experiment_video.MOV`.
 
 ## Results
 
@@ -21,7 +22,7 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-Place non-public source frames under `data/` and update paths at the top of scripts or supply project-relative paths. Raw experimental frames, videos, full annotations, and checkpoints are intentionally excluded from this public repository.
+Place non-public source frames under `data/` and update paths at the top of scripts or supply project-relative paths. Raw experimental frames, full annotations, and checkpoints are intentionally excluded from this public repository. The main experiment video is included as a documented exception.
 
 ## Layout
 
@@ -30,6 +31,7 @@ Place non-public source frames under `data/` and update paths at the top of scri
 - `src/piv/` — PIV analysis workflows.
 - `configs/` — dataset configuration template.
 - `results/` — selected, reproducible training evidence.
+- `videos/` — the main experimental recording.
 
 ## Notes
 
