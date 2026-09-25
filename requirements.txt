@@ -1,0 +1,11 @@
+boxmot
+filterpy
+matplotlib
+numpy
+opencv-python
+openpiv
+pandas
+scikit-image
+scipy
+tqdm
+ultralytics
