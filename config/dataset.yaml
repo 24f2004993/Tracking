@@ -1,0 +1,5 @@
+train: /Users/tanishq/Desktop/images
+val: /Users/tanishq/Desktop/images
+
+nc: 1
+names: [' ']

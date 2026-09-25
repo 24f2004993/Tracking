@@ -5,7 +5,9 @@ numpy
 opencv-python
 openpiv
 pandas
+pims
 scikit-image
 scipy
+trackpy
 tqdm
 ultralytics
